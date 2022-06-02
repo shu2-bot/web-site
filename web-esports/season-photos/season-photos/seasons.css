@@ -1,0 +1,10 @@
+#thumbnails img {
+    width: 84px;
+    height:auto;
+}
+#mainPhoto {
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: 10px auto;
+}
